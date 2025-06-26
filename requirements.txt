@@ -32,7 +32,6 @@ mypy_extensions==1.1.0
 narwhals==1.43.1
 nibabel==5.3.2
 numpy==2.2.6
-opencv-python==4.10.0.84
 opencv-python-headless==4.11.0.86
 packaging==25.0
 pandas==2.3.0
